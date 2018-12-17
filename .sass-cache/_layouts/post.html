@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
+    {% include article-opengraph.html %}
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+        <header id="header">
+          <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+        </header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+					</nav>
+
+				<!-- Main -->
+				<div id="main" >
+          <section class="post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+            <meta itemprop="mainEntityOfPage url" content="{{site.url}}{{page.id}}">
+    				<header class="major">
+              <span class="date"><time itemprop="datePublished" content="{{page.date}}">{{page.date | date_to_string}}</time></span>
+      				<h1 itemprop="name headline">{{page.title}}</h1>
+              <p itemprop="author" content="page.author">by {{page.author}}</p>
+      				<p>{{page.excerpt}}</p>
+      			</header>
+            <div class="image main" itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img src="{{ page.image }}" alt=""></div>
+      			<p itemprop="articleBody">{{content}}</p>
+      		</section>
+
+					<!-- Footer -->
+						<footer>
+              <ul class="actions">
+                <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+              </ul>
+						</footer>
+					</div>
+
+          <!-- Twitter Card -->
+          <meta name="twitter:card" content="summary_large_image">
+          <meta name="twitter:site" content="@{{ site.twitter }}">
+          <meta name="twitter:creator" content="@{{ page.author-twitter }}">
+          <meta name="twitter:title" content="{{ page.title }}">
+          <meta name="twitter:description" content=" {{ page.excerpt }}">
+          <meta name="twitter:image" content="{{site.url}}{{ page.image }}">
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+      <!-- Scripts -->
+  		{% include scripts-main.html %}
+			{% include tracking.html %}
+
+	</body>
+</html>
