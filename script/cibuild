@@ -1,0 +1,8 @@
+#!/bin/sh
+
+set -ex
+
+./node_modules/.bin/remark _posts/*
+
+bundle exec jekyll build
+htmlproof ./_site

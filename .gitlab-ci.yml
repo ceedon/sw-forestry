@@ -1,0 +1,3 @@
+before_script:
+    gem install bundler --ro-ri --no-rdoc
+
