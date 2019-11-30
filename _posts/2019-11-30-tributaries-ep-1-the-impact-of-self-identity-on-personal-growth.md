@@ -5,16 +5,23 @@ author: Chris Donnelly and Alastair Steward
 author-twitter: distractable
 title: 'Tributaries, Ep. 1: The impact of Self-Identity on Personal Growth'
 image: "/uploads/tributaries.jpg"
-excerpt: ''
+excerpt: How does “I’m an x kind of person” or “I’m someone who does y” affect one’s
+  pursuit of growth?
 
 ---
 ### Intro to the Tributaries Series
 
-As a way of encouraging the practice of writing, we decided to lower of stakes, remove dependencies, and create mutual accountability by agreeing to a prompt, a deadline, a word count (500), and a level of polish (write what comes to mind and ship what you write). We've found value in being able to (quickly) form our individual perspectives on a particular topic, compare and contrast those perspectives, and only then start muddying the waters–in the best way–through conversation. 
+As a way of encouraging the practice of writing, we decided to lower the stakes, remove dependencies, and create mutual accountability. We agree to a prompt, a deadline, a word count (500), and a level of polish (write what comes to mind and ship what you write). 
+
+We find value in being able to (quickly) form individual takes on a particular topic, compare and contrast those perspectives, and only then start building a shared understanding.
+
+So, with the ceremony it deserves: here's the thing. That's it. Enjoy.
+
+<hr>
 
 ### Episode 1: The impact of Self-Identity on Personal Growth
 
-_Or, How does “I’m an x kind of person” or “I’m someone who does y” affect one’s pursuit of growth._
+_Or, How does “I’m an x kind of person” or “I’m someone who does y” affect one’s pursuit of growth?_
 
 #### Chris' Answer
 
@@ -37,15 +44,17 @@ So, it depends? What do we truly believe? Does being a member of a group preclud
 
 So, this prompt leaves me with a question. How do we teach people to be self-taught? How can we create a tribe of quirky little miscreants who buck trends as the situation demands? Stoicism has much to say. As does the Tao. As does Buddhism. As does much of Eastern thought. We must stoke the fires of reason, of that I'm sure. Inductive, deductive, but perhaps most importantly in this complex world, abuctive. I hope I'm a cogent kind of person. I hope I'm someone who seeks cogency.
 
+<hr>
+
 #### Alastair's Answer
 
-I’m going to define self-identity as ‘who you want to believe you are’ or ‘who you want to believe you can be’. It’s important not to conflate those definitions with ‘who you want to be’, although they’re related. The ‘…you want to believe…’ piece is crucial. That’s where the real magic happens.
+I’m going to define self-identity as "who you want to believe you are" or "who you want to believe you can be". It’s important not to conflate those definitions with "who you want to be", although they’re related. The "…you want to believe…" piece is crucial. That’s where the real magic happens.
 
-It’s uncontroversial at this point (thanks, Psychology!) to assert that we all have beliefs we protect, beliefs we feel–whether we realize it or not–/must/ be true. It’s the protected nature of these beliefs that makes them so powerful. We’re so intent on preserving them that we’ll bend reality to fit them. In some (many) cases, ‘bending reality’ means bending our perceptions, insisting on seeing what we believe. In other cases, we will do all we can to resolve the cognitive dissonance between belief and reality by shaping reality itself. Both of these cases show up in the pursuit of personal growth.
+It’s uncontroversial at this point (thanks, Psychology!) to assert that we all have beliefs we protect, beliefs we feel–whether we realize it or not–_must_ be true. It’s the protected nature of these beliefs that makes them so powerful. We’re so intent on preserving them that we’ll bend reality to fit them. In some (many) cases, "bending reality" means bending our perceptions, insisting on seeing what we believe. In other cases, we will do all we can to resolve the cognitive dissonance between belief and reality by shaping reality itself. Both of these cases show up in the pursuit of personal growth.
 
-That former case, when we simply shift our perceptions without even knowing it, is an exquisite way to stand still (or even more backward!) when ostensibly we’re dedicated to our own growth. In some cases, it’s ‘meta’ enough to be almost perversely funny: “Could I have been acting from jealousy in that moment? No way, I’m super self-aware. I’d have known it.” In identifying as a certain type of person–by hitching our ego and self-esteem to that identity–we’re setting ourselves up to be blind to the /very learning opportunities/ that would allow us to make it a reality.
+That former case, when we simply shift our perceptions without even knowing it, is an exquisite way to stand still (or even more backward!) when ostensibly we’re dedicated to our own growth. In some cases, it’s "meta" enough to be almost perversely funny: “Could I have been acting from jealousy in that moment? No way, I’m super self-aware. I’d have known it.” In identifying as a certain type of person–by hitching our ego and self-esteem to that identity–we’re setting ourselves up to be blind to the _very learning opportunities_ that would allow us to make it a reality.
 
-The latter case, on the other hand, when the delta between what we want to believe and the evidence we’re presented with motivates us to shape reality itself, can be a powerful ally in the campaign for self-improvement. There are moments when we’re faced with a choice. Who am I going to be in this moment? Am I going to be the frustrated me or the angry me or the lazy me or the antagonistic me or the whatever me that’s rearing it’s (my) head? Or, am I going to be the patient me or the thoughtful me or the dedicated me or the self-aware me? If I want to believe (/need to believe/) that I’m someone who is patient or thoughtful or dedicate or whatever it is, I must show up that way in order to protect that belief.
+The latter case, on the other hand, when the delta between what we want to believe and the evidence we’re presented with motivates us to shape reality itself, can be a powerful ally in the campaign for self-improvement. There are moments when we’re faced with a choice. Who am I going to be in this moment? Am I going to be the frustrated me or the angry me or the lazy me or the antagonistic me or the whatever me that’s rearing it’s (my) head? Or, am I going to be the patient me or the thoughtful me or the dedicated me or the self-aware me? If I want to believe _(need to believe)_ that I’m someone who is patient or thoughtful or dedicate or whatever it is, I must show up that way in order to protect that belief.
 
 This whole thing becomes extra-interesting when the identity we want to confirm is the identity of someone who seeks to grow and evolve. Let’s be honest, holding onto a persistent identity to which self-worth is tied is a bit at odds with personal growth. Maybe it helps for the moment, though, to ask, “Is this the way someone dedicated to personal growth would show up? Is that who I’m being right now? If not, how might I be that person, at least for a moment?”
 
