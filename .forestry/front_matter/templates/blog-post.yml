@@ -26,3 +26,5 @@ fields:
 - type: textarea
   name: excerpt
   label: excerpt
+pages:
+- _posts/tributaries-ep-1-the-impact-of-self-identity-on-personal-growth.md
