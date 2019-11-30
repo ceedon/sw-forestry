@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0ad5d12b-a436-49d3-9077-b1974d211f5d/deploy-status)](https://app.netlify.com/sites/standingwave/deploys)
 # Massively
 > This is Massively, a text-heavy, article-oriented design built around a huge background
 image.
