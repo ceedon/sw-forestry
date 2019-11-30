@@ -1,0 +1,25 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: author
+  label: author
+- type: text
+  name: author-twitter
+  label: author-twitter
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: file
+  name: image
+  label: image
+- type: textarea
+  name: excerpt
+  label: excerpt
