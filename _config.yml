@@ -53,7 +53,8 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-gist
-  - jekyll-compress-images - jekyll-paginate
+  - jekyll-compress-images
+  - jekyll-paginate
 
 paginate: 6
 paginate_path: "/blog/page:num/"
