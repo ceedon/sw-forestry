@@ -5,10 +5,9 @@ author: Alastair Steward & Chris Donnelly
 author-twitter: ''
 title: 'Tributaries, Ep. 2: The Polarity Between Theory and Practice'
 image: "/uploads/janko-ferlic-specialdaddy-sfL_QOnmy00-unsplash.jpg"
-excerpt: What we see today is a world of craft. A world informed by the practices
-  of the past. Those practices augmented by the theories of practitioners over the
-  years. People are behaving with theory informed practices, but those theories are
-  not necessarily for the contexts in which they are being used.
+excerpt: As with most polarities, theory and practice are often taken to be two independent,
+  distinct “things”, each with its own dogma and acolytes. What’s the difference,
+  though, really?
 
 ---
 ### About the Tributaries Series
