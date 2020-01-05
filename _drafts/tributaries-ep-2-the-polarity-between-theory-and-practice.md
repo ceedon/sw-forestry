@@ -5,9 +5,9 @@ author: Chris Donnelly & Alastair Steward
 author-twitter: ''
 title: 'Tributaries, Ep. 3: The Purpose of 1:1s'
 image: "/uploads/andrew-palmer-nO22RluCod0-unsplash.jpg"
-excerpt: As with most polarities, theory and practice are often taken to be two independent,
-  distinct “things”, each with its own dogma and acolytes. What’s the difference,
-  though, really?
+excerpt: Look, power dynamics are a thing. Avoid talking about them at your peril.
+  Own it. Talk about your philosophy around power use. Talk about what folks can do
+  to be safe. Build contracts. Keep them.
 
 ---
 ### About the Tributaries Series
