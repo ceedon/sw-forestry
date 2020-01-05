@@ -1,10 +1,10 @@
 ---
 layout: post
 date: 2019-12-17 14:42:27 +0000
-author: Alastair Steward & Chris Donnelly
+author: Chris Donnelly & Alastair Steward
 author-twitter: ''
 title: 'Tributaries, Ep. 3: The Purpose of 1:1s'
-image: "/uploads/janko-ferlic-specialdaddy-sfL_QOnmy00-unsplash.jpg"
+image: "/uploads/andrew-palmer-nO22RluCod0-unsplash.jpg"
 excerpt: As with most polarities, theory and practice are often taken to be two independent,
   distinct “things”, each with its own dogma and acolytes. What’s the difference,
   though, really?
