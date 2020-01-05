@@ -3,7 +3,7 @@ layout: post
 date: 2019-12-17 14:42:27 +0000
 author: Alastair Steward & Chris Donnelly
 author-twitter: ''
-title: 'Tributaries, Ep. 2: The Polarity Between Theory and Practice'
+title: 'Tributaries, Ep. 3: The Purpose of 1:1s'
 image: "/uploads/janko-ferlic-specialdaddy-sfL_QOnmy00-unsplash.jpg"
 excerpt: As with most polarities, theory and practice are often taken to be two independent,
   distinct “things”, each with its own dogma and acolytes. What’s the difference,
@@ -14,42 +14,76 @@ excerpt: As with most polarities, theory and practice are often taken to be two 
 
 As a way of encouraging the practice of writing, we decided to lower the stakes, remove dependencies, and create mutual accountability. We agree to a prompt, a deadline, a word count (500), and a level of polish (write what comes to mind and ship what you write). That's it. Enjoy!
 
-Check out previous Tributaries posts [here](https://standingwave.co/blog/). 
+Check out previous Tributaries posts [here](https://standingwave.co/blog/).
 
 <hr>
 
-### Episode 2: The Polarity Between Theory and Practice
-
-#### Alastair's Answer
-
-As with most polarities, theory and practice are often taken to be two independent, distinct “things”, each with its own dogma and acolytes. What’s the difference, though, really? Any moment of practice is the application of theory. “Practice” implies a certain intentionality; this isn’t just gut reactions or instinct. It follows, then, that practice is the result of a decision (or several), and those decisions must be guided by theory.
-
-Sure, in some cases the theories in play may be explicit and conscious and in others they may be implicit and/or subconscious. It might be helpful to think of these theories as mental models. Any time you’re doing something “in practice”, you’re doing it informed by one or more mental models you’ve formed that represent the relevant parts of reality. If you overhaul your organizational incentives and structures to align with self-determination theory? That’s practice informed by theory. If you attach contingent monetary compensation to something you want more of (because “people are motivated by money”), that’s practice informed by theory.
-
-So, what are we really talking about when we talk about the polarity of theory and practice? Going back to the theory vs. practice false dichotomy we talked about earlier, we can form an idea of each from the view of the other. “Theory” is academic positing done in a disconnected, unrealistic bubble of hypotheticals. Sure, theory sounds good within its own contexts (university classrooms, academic journals, and super-niche conference talks) but it falls flat when taken out of its hermetically sealed birthplace.
-
-Practice, on the other hand, is a bunch of uninformed cowboys doing what’s always been done and perpetuating an endless mishmash of “best practices”, many of which have been proven via rigorous study to be either ineffectual or actually harmful…decades ago.
-
-Maybe, then, the polarity is thinking and doing. You can’t just think (you’d never get anything done!) and you can’t just do (you’ll never learn, never improve, and may well stumble onto a landmine). They must be balanced, held in dynamic tension. But what does _that_ mean?
-
-To start, it means questioning and answering. Questioning helps keep the balance from moving too far towards doing; being curious about our current understanding, about what beliefs and attitudes are underpinning what actions we choose to take enables learning. Answering here means _application_. It means going out into the real world and _trying stuff_ to see what we can learn. It means taking action and putting thought into practice, but in a way that enables the uncovering of deeper, richer questions.
-
-It also means taking advantage of the questioning and answering being done by others. Who else is asking similar questions and what answers are they finding? The key here is to recognize that the questions others are asking are _always_ different than our own questions. The difference is context. We might think we’re asking “what motivates people?” or “how can people best work together?” or “how can work be meaningful?” but for those of us walking that theory-practice polarity, there’s always a “here” tacked on the end.
-
-<hr>
+### Episode 3: The Purpose of 1:1s
 
 #### Chris' Answer
 
-Polarities are conflicts where domination by one contingent dooms all involved to brittle stagnation followed by upheaval. Polarities are managed, not won. They aren't problems to be solved through absolutist rhetoric. They are balances to be struck. Opposites which benefit from the other's existence and influence. Opposites which cannot meaningfully survive without the other.
+1:1s have lifecycles. They evolve and change as the situation the two participants are in changes. New managers coming into existing teams will have very different 1:1s than teams formed through time or from the ether.
 
-I struggle to make the transition into treating theory and practice as poles through the lens above. Surely, practice survives throughout the world without theory informing the behaviors manifest? I think not. What we see today is a world of craft. A world informed by the practices of the past. Those practices augmented by the theories of practitioners over the years. People are behaving with theory informed practices, but those theories are not necessarily for the contexts in which they are being used.
+So, when I talk about the purpose of a 1:1, I tend to go pretty high-level as to avoid the needs of particular points in time in favor of generically valid purpose.
 
-So there's the meat of this, then. The tension between theory and practice is produced by the volatility of the domain in play. Practice without theory is a blind stumble through the world cursing the gods for not honoring your strict adherence to the rituals agreed upon by your forebears. Theory without practice is ivory tower navel gazing with no sensory apparatus to determine that the world has moved on, and no longer needs your solutions to yesterday's problems. To have theory is to be able to generate adaptive practices. To have practice is to know when you need to adapt. These cannot exist in isolation.
+In a nutshell, 1:1s are about building relationships. All of the advice geared towards the more powerful member of the pair basically boils down to “don’t steamroll the less powerful member of the pair.” This is good advice. You certainly can’t build a healthy relationship on bullying. I’d argue that this is table stakes. We’ve found that most people succeed at losing rather than failing to win, so we focus on the things not to do, but I don’t see much advice on what to do.
 
-In modern life, the volatility of the world is increasing exponentially. The first order optimal solution is to be in motion. Steer constantly to surf the thermals of change. Second order, we start to think about what we should be steering towards. Maybe it's better to shed energy rather than build it to prepare to catch the big one. Third order, we think about why we want to have energy at all. Fourth order, we ask about why we want to be in places. Fifth, what we need to have. Sixth, why we are. Seventh, who we are. Eighth, where we stop and start. Ninth, what is the other. Tenth, why is otherness. And we continue to go down this rabbit hole forever without writing anything useful...
+Do:
 
-To adapt to this changing world, we need to build new practices constantly. To build effective practices quickly, we need design. To design, we need theory. Design is the binder between practice and theory. Design is craft's antithesis. It's minimalist. It's adaptive and not exaptive. Designed processes tend to be brittle because of this. You can combat this with continuous design or by building loosely-constrained processes.
+* Be a person
+* Contribute
+* Make space for the other person whenever they want it
+* Ask about what is important to the other person
+* Follow-up on things talked about
 
-If you loosely-constrain a process, you're basically throwing in the towel on pure design. You're acknowledging that there needs to be flex for people in the system to move outside of your designs. If you go with continuous design, you're constantly going to have to sample the functioning of the system on a deep level and adjust. This requires reams of information about how things are operating and what the possibilities are. Ashby's Law comes into play. Human tolerance for change comes into play. _Play_ comes into play. The only way for continuous design to be sustainable is through play. A sufficiently high proportion of the players must be _live_ players reveling in the game of systems design. This amplifies the knowledge burden geometrically. Now, your live actors need to be sharing their info, synthesizing, observing the system, marketing to the _dead_ players... It's a lot. It's chaotic and beautiful and...nearly impossible to scale.
+As a manager, you carry baggage that makes folks hesitant to open up.
 
-Volatility and scale. One tends towards theory. The other towards practice. Both demand a balance to be struck, but different ones. 🤔
+Power
+
+Look, power dynamics are a thing. Avoid talking about them at your peril. Own it. Talk about your philosophy around power use. Talk about what folks can do to be safe. Build contracts. Keep them.
+
+Lack of
+
+Enter cogency:
+
+The purpose of 1:1s is spending high-quality time with someone you want to work with productively. Spending time with someone is the only way to build a healthy relationship with them. There’s no fast-track to interpersonal success, but there are things to make sure the time you’re spending is time towards, and not away from, that goal.
+
+Think about the people you choose to spend time with: friends, partners, coworkers. How would you characterize those interactions? Now contrast that with many of the one-on-one interactions that happen between direct reports and the people whom they report to. Where do they differ?
+
+It’s forced:
+
+The clearest predictor of a bad 1:1 in the making is that one party or the other doesn’t want to be there. Friends you don’t enjoy spending time with rapidly become acquaintances. In a work setting you’re effectively trapped with folks. That means distance relationships result in awkward and ineffective communication patterns and not much long-term good.
+
+So, you want a better 1:1. Cool.
+
+* Be a person
+* Contribute where appropriate
+* Make space for the other person whenever they want it
+* Ask about what is important to the other person in and out of work
+* Follow-up on things they say they care about
+
+These tips apply to every interaction you ever have with another human.
+
+There’s no magical reason why 1:1s are a key to success. There’s a mundane one.
+
+Managers tend to say no to obligations too rarely, and thus are starved for time. Without “free” time, they tend not to talk with the folks who report to them unless there’s a need. You know that friend you only hear from when they need something? Don’t be that person. The power dynamic allows you to go a long, long time without realizing that folks loathe interacting with you. 1:1s are a cadenced approach to preventing that through spending time on what matters–the people.
+
+Now that we’re focused on relationship building, let’s pick apart some of the guidance we give managers.
+
+No injection.
+
+Time reqs.
+
+Structure.
+
+<hr>
+
+#### Alastair's Answer
+
+Let’s define our terms. While any meeting between two people could be considered a “one on one”, the 1-1 we’re talking about is a recurring meeting between a manager and one of their direct reports. To understand the purpose of a 1-1, we have to understand the context. A manager <> direct report relationship is predicated by definition on a power imbalance; a manager is a manager in virtue of their power over their direct reports.
+
+Along with that structural power almost always comes a conventional understanding of what it is to be a manager. Managers direct, they supervise, they know better, they make sure the work happens. All of these ingredients add up to a dynamic in which the manager _decides_. They decide what’s important, what needs to be discussed, where the focus and attention need to be.
+
+The purpose of a 1-1 is for the manager to use their power to create a space in which their direct report gets to decide what’s important (what most needs to be discussed, and how) and a space in which they believe it’s safe–appreciated, in fact–to share those things. Being vulnerable takes an investment of energy, of trust, of courage, and adding a power imbalance into the mix only increases that cost. Without a space where it’s explicit (and structurally validated) that the direct report gets to ordain a topic the most important and relevant thing to discuss–where it’s genuinely treated as most important by _both_ people–the conversation will default to whatever the pair implicitly believes the manager feels is most important. The fears, frustrations, questions, insights, and brilliant ideas that the direct report could surface given the right environment stay buried until they shrivel and starve (ideas) or fester until it’s too late to resolve them.
+
+To accomplish this explicit permission and structural validation of the direct report’s ownership over what’s discussed, the manager must use their power to mark a boundary, a boundary in which the implications of that power are diminished. Because that power dynamic is still there (and will always be there), this space must be created and held so that the direct report’s power to decide isn’t undermined. The 1-1 _must_ be _their_ space to fill.
