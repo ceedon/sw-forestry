@@ -26,31 +26,19 @@ Check out previous Tributaries posts [here](https://standingwave.co/blog/).
 
 So, when I talk about the purpose of a 1:1, I tend to go pretty high-level as to avoid the needs of particular points in time in favor of generically valid purpose.
 
-In a nutshell, 1:1s are about building relationships. All of the advice geared towards the more powerful member of the pair basically boils down to “don’t steamroll the less powerful member of the pair.” This is good advice. You certainly can’t build a healthy relationship on bullying. I’d argue that this is table stakes. We’ve found that most people succeed at losing rather than failing to win, so we focus on the things not to do, but I don’t see much advice on what to do.
+In a nutshell, 1:1s are about building relationships. All of the advice geared towards the more powerful member of the pair basically boils down to “don’t steamroll the less powerful member of the pair.” This is good advice. You certainly can’t build a healthy relationship on bullying. I’d argue that this is table stakes. We’ve found that most people succeed at losing rather than failing to win, so we focus on the things not to do, but I don’t see much advice on what to do. So let's lay down a high-level risk and then move on to some more positive advice.
 
-Do:
+### High-tension Lines
 
-* Be a person
-* Contribute
-* Make space for the other person whenever they want it
-* Ask about what is important to the other person
-* Follow-up on things talked about
+As a manager, you carry baggage that makes folks hesitant to open up. Chiefly a power differential. Power dynamics are a thing. Avoid talking about them at your peril. Own it. Talk about your philosophy around power use. Talk about what folks can do to be safe. Build contracts. Keep them.
 
-As a manager, you carry baggage that makes folks hesitant to open up.
+Managers tend to say no to obligations too rarely, and thus are starved for time. Without “free” time, they tend not to talk with the folks who report to them unless there’s a need. You know that friend you only hear from when they need something? Don’t be that person. The power dynamic allows you to go a long, long time without realizing that folks loathe interacting with you. 1:1s are a cadenced approach to preventing that through spending time on what matters–the people.
 
-Power
-
-Look, power dynamics are a thing. Avoid talking about them at your peril. Own it. Talk about your philosophy around power use. Talk about what folks can do to be safe. Build contracts. Keep them.
-
-Lack of
-
-Enter cogency:
+### Be a Person
 
 The purpose of 1:1s is spending high-quality time with someone you want to work with productively. Spending time with someone is the only way to build a healthy relationship with them. There’s no fast-track to interpersonal success, but there are things to make sure the time you’re spending is time towards, and not away from, that goal.
 
 Think about the people you choose to spend time with: friends, partners, coworkers. How would you characterize those interactions? Now contrast that with many of the one-on-one interactions that happen between direct reports and the people whom they report to. Where do they differ?
-
-It’s forced:
 
 The clearest predictor of a bad 1:1 in the making is that one party or the other doesn’t want to be there. Friends you don’t enjoy spending time with rapidly become acquaintances. In a work setting you’re effectively trapped with folks. That means distance relationships result in awkward and ineffective communication patterns and not much long-term good.
 
@@ -64,17 +52,7 @@ So, you want a better 1:1. Cool.
 
 These tips apply to every interaction you ever have with another human.
 
-There’s no magical reason why 1:1s are a key to success. There’s a mundane one.
-
-Managers tend to say no to obligations too rarely, and thus are starved for time. Without “free” time, they tend not to talk with the folks who report to them unless there’s a need. You know that friend you only hear from when they need something? Don’t be that person. The power dynamic allows you to go a long, long time without realizing that folks loathe interacting with you. 1:1s are a cadenced approach to preventing that through spending time on what matters–the people.
-
-Now that we’re focused on relationship building, let’s pick apart some of the guidance we give managers.
-
-No injection.
-
-Time reqs.
-
-Structure.
+There’s no magical reason why 1:1s are a key to success. There’s a mundane one. 
 
 <hr>
 
