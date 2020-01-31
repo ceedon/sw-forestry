@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-12-17 14:42:27 +0000
+date: 2019-12-17T14:42:27.000+00:00
 author: Chris Donnelly & Alastair Steward
 author-twitter: ''
 title: 'Tributaries, Ep. 3: The Purpose of 1:1s'
